@@ -22,3 +22,4 @@ LINEbot、およびそのソースを管理するためのGitHubを学習する�
 - 課題や今後開発したいことはissueに記載する
 
 test[20200712][nodami]
+test[20200821][nodami]
